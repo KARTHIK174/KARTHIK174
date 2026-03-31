@@ -16,7 +16,18 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on AI and Data Science projects focused on machine learning and data analysis.<br>👯 I’m looking to collaborate on Open source AI, data science, and web development projects.<br>🤝 I’m looking for help with Advanced AI concepts and web application optimization.<br>🌱 I’m currently learning Deep learning, NLP, advanced JavaScript, cloud computing, and DevOps.<br>💬 Ask me about Java, ReactJS, MongoDB, JavaScript, Git, AI, and Data Science.<br>⚡ Fun fact I love tech innovation and stargazing
+
+🔭 Software Engineer at Accenture, working in application development and problem-solving.
+
+💻 Skilled in Python, SQL, ReactJS, and Java, with a strong foundation in Data Structures and Algorithms.
+
+🚀 Built projects like SkillSpire – a learning platform with structured roadmaps and curated resources.
+
+🌱 Currently exploring AI, Deep Learning, and scalable web applications.
+
+🤝 Open to collaborating on impactful projects in AI, Data Science, and Web Development.
+
+⚡ Passionate about technology, continuous learning, and building real-world solutions.
 
 
 ## 🌐 Socials:
